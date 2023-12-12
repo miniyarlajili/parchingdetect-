@@ -52,3 +52,4 @@ while True:
             pickle.dump(data,f)
 cap.release()
 cv2.destroyAllWindows()
+#gdhgfjhf
